@@ -1,0 +1,11 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    width: 600px;
+    margin: 0px auto;
+    border: 2px solid white;
+}
+body{
+    background-color: rgba(54, 119, 241, 1);
+}
